@@ -1,0 +1,140 @@
+Performing C SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_245a1/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_245a1.dir/build.make CMakeFiles/cmTC_245a1.dir/build
+Building C object CMakeFiles/cmTC_245a1.dir/src.c.o
+/usr/bin/gcc -Dtest_option  -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_245a1.dir/src.c.o -MF CMakeFiles/cmTC_245a1.dir/src.c.o.d -o CMakeFiles/cmTC_245a1.dir/src.c.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_245a1.dir/src.c.o] Error 1
+make: *** [cmTC_245a1/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b550a/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b550a.dir/build.make CMakeFiles/cmTC_b550a.dir/build
+Building CXX object CMakeFiles/cmTC_b550a.dir/src.cxx.o
+/usr/bin/g++ -Dtest_option  -fPIC -O2 -Wall -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_b550a.dir/src.cxx.o -MF CMakeFiles/cmTC_b550a.dir/src.cxx.o.d -o CMakeFiles/cmTC_b550a.dir/src.cxx.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_b550a.dir/src.cxx.o] Error 1
+make: *** [cmTC_b550a/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_e5e23/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e5e23.dir/build.make CMakeFiles/cmTC_e5e23.dir/build
+Building C object CMakeFiles/cmTC_e5e23.dir/src.c.o
+/usr/bin/gcc -Dtest_option  -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_e5e23.dir/src.c.o -MF CMakeFiles/cmTC_e5e23.dir/src.c.o.d -o CMakeFiles/cmTC_e5e23.dir/src.c.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_e5e23.dir/src.c.o] Error 1
+make: *** [cmTC_e5e23/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_fd220/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_fd220.dir/build.make CMakeFiles/cmTC_fd220.dir/build
+Building CXX object CMakeFiles/cmTC_fd220.dir/src.cxx.o
+/usr/bin/g++ -Dtest_option  -fPIC -O2 -Wall -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_fd220.dir/src.cxx.o -MF CMakeFiles/cmTC_fd220.dir/src.cxx.o.d -o CMakeFiles/cmTC_fd220.dir/src.cxx.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_fd220.dir/src.cxx.o] Error 1
+make: *** [cmTC_fd220/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_9c0f7/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9c0f7.dir/build.make CMakeFiles/cmTC_9c0f7.dir/build
+Building C object CMakeFiles/cmTC_9c0f7.dir/src.c.o
+/usr/bin/gcc -Dtest_option  -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_9c0f7.dir/src.c.o -MF CMakeFiles/cmTC_9c0f7.dir/src.c.o.d -o CMakeFiles/cmTC_9c0f7.dir/src.c.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_9c0f7.dir/src.c.o] Error 1
+make: *** [cmTC_9c0f7/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_21d89/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_21d89.dir/build.make CMakeFiles/cmTC_21d89.dir/build
+Building CXX object CMakeFiles/cmTC_21d89.dir/src.cxx.o
+/usr/bin/g++ -Dtest_option  -fPIC -O2 -Wall -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_21d89.dir/src.cxx.o -MF CMakeFiles/cmTC_21d89.dir/src.cxx.o.d -o CMakeFiles/cmTC_21d89.dir/src.cxx.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_21d89.dir/src.cxx.o] Error 1
+make: *** [cmTC_21d89/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_67f37/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_67f37.dir/build.make CMakeFiles/cmTC_67f37.dir/build
+Building C object CMakeFiles/cmTC_67f37.dir/src.c.o
+/usr/bin/gcc -Dtest_option  -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_67f37.dir/src.c.o -MF CMakeFiles/cmTC_67f37.dir/src.c.o.d -o CMakeFiles/cmTC_67f37.dir/src.c.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_67f37.dir/src.c.o] Error 1
+make: *** [cmTC_67f37/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_679d5/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_679d5.dir/build.make CMakeFiles/cmTC_679d5.dir/build
+Building CXX object CMakeFiles/cmTC_679d5.dir/src.cxx.o
+/usr/bin/g++ -Dtest_option  -fPIC -O2 -Wall -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_679d5.dir/src.cxx.o -MF CMakeFiles/cmTC_679d5.dir/src.cxx.o.d -o CMakeFiles/cmTC_679d5.dir/src.cxx.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_679d5.dir/src.cxx.o] Error 1
+make: *** [cmTC_679d5/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d3bf7/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d3bf7.dir/build.make CMakeFiles/cmTC_d3bf7.dir/build
+Building C object CMakeFiles/cmTC_d3bf7.dir/src.c.o
+/usr/bin/gcc -Dtest_option  -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_d3bf7.dir/src.c.o -MF CMakeFiles/cmTC_d3bf7.dir/src.c.o.d -o CMakeFiles/cmTC_d3bf7.dir/src.c.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.c: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_d3bf7.dir/src.c.o] Error 1
+make: *** [cmTC_d3bf7/fast] Error 2
+
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test test_option failed with the following output:
+Change Dir: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_d38d0/fast && /Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d38d0.dir/build.make CMakeFiles/cmTC_d38d0.dir/build
+Building CXX object CMakeFiles/cmTC_d38d0.dir/src.cxx.o
+/usr/bin/g++ -Dtest_option  -fPIC -O2 -Wall -Xclang -fopenmp  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk   -xHost -MD -MT CMakeFiles/cmTC_d38d0.dir/src.cxx.o -MF CMakeFiles/cmTC_d38d0.dir/src.cxx.o.d -o CMakeFiles/cmTC_d38d0.dir/src.cxx.o -c /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx
+clang: error: language not recognized: 'Host'
+clang: warning: /Users/mac/.jackprogram/MBX/build/CMakeFiles/CMakeTmp/src.cxx: 'linker' input unused [-Wunused-command-line-argument]
+make[1]: *** [CMakeFiles/cmTC_d38d0.dir/src.cxx.o] Error 1
+make: *** [cmTC_d38d0/fast] Error 2
+
+
+Source file was:
+int main() { return 0; }
