@@ -1,0 +1,1 @@
+Testing fixed standalone trigger
