@@ -1,0 +1,1 @@
+/home/jie/Github/hydrate-structure-discovery/processed_data/surface_slab/111_slab_2layers_dz0.0A/density_profile_dz0.0A.png
