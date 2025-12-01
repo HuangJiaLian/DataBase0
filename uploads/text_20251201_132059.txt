@@ -1,0 +1,1 @@
+/home/jie/Github/hydrate-structure-discovery/processed_data/finetuneSlab/slab_cut_10.22_THF.xyz
