@@ -1,0 +1,27 @@
+# ---- Check focused window class ----
+WIN_ID=$(xdotool getwindowfocus)
+WIN_CLASS=$(xprop -id "$WIN_ID" WM_CLASS 2>/dev/null)
+
+# GNOME Terminal class contains: "Gnome-terminal"
+if [[ "$WIN_CLASS" != *"Gnome-terminal"* ]]; then
+    exit 0
+fi
+
+# ---- State file logic ----
+if [ ! -f "$STATE_FILE" ]; then
+    echo "opaque" > "$STATE_FILE"
+fi
+
+STATE=$(cat "$STATE_FILE")
+
+# ensure focus sync
+xdotool windowfocus --sync "$WIN_ID"
+sleep 0.15
+
+if [ "$STATE" = "opaque" ]; then
+    xdotool key --clearmodifiers Shift+F10 r 1
+    echo "transparent" > "$STATE_FILE"
+else
+    xdotool key --clearmodifiers Shift+F10 r 2
+    echo "opaque" > "$STATE_FILE"
+fi
